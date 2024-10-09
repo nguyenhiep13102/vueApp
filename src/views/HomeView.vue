@@ -58,11 +58,12 @@
        </div>
        
      </div>
-     <AboutView/>
+     
      <nav>
      <!-- <router-link to="/">Home</router-link> |
      <router-link to="/about">About</router-link> -->
    </nav>
+   <AboutView/>
 
    <router-view ></router-view>
    <footer class="footer">
